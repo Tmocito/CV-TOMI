@@ -1,0 +1,48 @@
+.gris{
+    background-color: gray;
+}
+.azul{
+    background-color: #183e70;
+}
+.bodyBlanco{
+    background-color: #efefef;
+}
+h1 {
+    color: beige;
+    font-family: montaser arabic;
+    font-weight: 700;
+  }
+  h2 {
+    color: beige;
+    font-family: "Inter", sans-serif;
+  }
+  p{
+    font-family: "Inter", sans-serif;
+    
+  }
+.profile-photo {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    background-color: #183e70;
+    margin-top: 50px;
+    border: 10px solid #183e70;
+   
+  }
+  .iconos{
+    border-radius: 50%;
+    border: 1px solid black;
+  }
+  .pabajo {
+    margin-top: 200px;
+  }
+  .pabajo1-5{
+    margin-top: 120px;
+  }
+  .pabajo2 {
+    margin-top: 30px;
+  }
+  .grueso{
+    font-weight: 700;
+  }
+  
